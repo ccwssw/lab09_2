@@ -89,3 +89,4 @@ public class Rational {
         return this.numerator + "/" + this.denominator;
     }
 }
+
